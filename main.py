@@ -1,3 +1,4 @@
+import pandas as pd
 def main():
     print("Hello from data-science!")
 
